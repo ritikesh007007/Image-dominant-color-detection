@@ -29,6 +29,7 @@ Install the required libraries using pip:
 
 ```bash
 pip install opencv-python numpy matplotlib scikit-learn
+```
 🚀 How to Run
 Place your image in the project folder and rename it to test.jpg.
 
@@ -36,10 +37,9 @@ Open your terminal in the project directory.
 
 Run the Python script:
 
-bash
-Copy
-Edit
+```bash
 python colordetection.py
+```
 The program will display:
 
 The original image.

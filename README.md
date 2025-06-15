@@ -1,4 +1,4 @@
-# 🎨 Image Dominant Color Detector
+# 🎨 Image Color Detector
 
 A simple Python project to detect the dominant color in an image using OpenCV, KMeans Clustering, and Matplotlib.
 
@@ -29,24 +29,23 @@ Install the required libraries using pip:
 
 ```bash
 pip install opencv-python numpy matplotlib scikit-learn
-
 🚀 How to Run
--Place your image in the project folder and rename it to test.jpg.
+Place your image in the project folder and rename it to test.jpg.
 
--Open your terminal in the project directory.
+Open your terminal in the project directory.
 
--Run the Python script:
-```bash
-   python colordetection.py
+Run the Python script:
 
+bash
+Copy
+Edit
+python colordetection.py
 The program will display:
 
- -The original image.
+The original image.
 
- -A pie chart showing color distribution.
+A pie chart showing color distribution.
 
- -The dominant color's RGB value in the terminal.  
+The dominant color's RGB value in the terminal.
 
-## 📸 Screenshot
-
-![App Screenshot](./clr.png) 
+![App Screenshot](./clr.png)
